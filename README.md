@@ -51,7 +51,7 @@ On the other hand the latest, newest version ("version 07.2017 until now") intro
 ### my plans:  
 * in the first step I will design a new SAC30, which combines the advantages of the two versions mentioned above,  
 it will still be in THT technology but 2 layer PCB, so that an average hobbyist can easily build it himself       
-* the next step will be to create an all SMD version of this (eventually including 1% C0G ceramic filter caps), with some new features like symmetrical outputs, input/output EMC protection, ...)
+* the next step will be to create an all SMD version of this (eventually including 1% C0G ceramic filter caps), with some new features like symmetrical outputs, input/output ESD protection, ...)
 
 <hr />  
 
