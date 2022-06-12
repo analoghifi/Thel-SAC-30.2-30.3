@@ -167,7 +167,7 @@
           30,
           59
         ],
-        "name": "nur Netzlinien",
+        "name": "Netlines only",
         "renderLayers": [
           125,
           126,
