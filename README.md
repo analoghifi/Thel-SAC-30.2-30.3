@@ -59,8 +59,11 @@ it will still be in THT technology but 2 layer PCB, so that an average hobbyist 
 <img width="100%" src="/hardware/version 07.2017 until now/SAW302.jpg" />  
   
 ## better previous version (built 2011-2017):
-<img width="100%" src="/hardware/version 2011-2017/SAW30-3_2011-2017.jpg" />  
+<img width="100%" src="/hardware/version 2011-2017/SAW30-3_2011-2017.jpg" />   
+using optional (front panel mount) level potentiometers directly on the PCB (in this case: TKD CP601 [Conductive Plastic]):   
+<img width="100%" src="/hardware/version 2011-2017/SAC30_with_TKD.jpg" />   
   
+
 https://web.archive.org/web/20071014012620/http://www.thel-audioworld.de/module/saw/saw.htm  
 old frequency-table: https://web.archive.org/web/20160324050324/http://thel-audioworld.de/module/saw/SAWTAB.GIF  
 https://web.archive.org/web/20110927050632/http://www.thel-audioworld.de/module/saw/saw.htm  
