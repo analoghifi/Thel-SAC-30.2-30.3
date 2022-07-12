@@ -56,12 +56,12 @@ it will still be in THT technology but 2 layer PCB, so that an average hobbyist 
 <hr />  
 
 ## latest version as of 07.2017 until today:  
-<img width="100%" src="/hardware/version 07.2017 until now/SAW302.jpg" />  
+<img width="100%" src="/hardware/2) version 07.2017 until now/SAW302.jpg" />  
   
 ## better previous version (built 2011-2017):
-<img width="100%" src="/hardware/version 2011-2017/SAW30-3_2011-2017.jpg" />   
+<img width="100%" src="/hardware/3) version 2011-2017/SAW30-3_2011-2017.jpg" />   
 using optional (front panel mount) level potentiometers directly on the PCB (in this case: TKD CP601 [Conductive Plastic]):   
-<img width="100%" src="/hardware/version 2011-2017/SAC30_with_TKD.jpg" />   
+<img width="100%" src="/hardware/3) version 2011-2017/SAC30_with_TKD.jpg" />   
   
 
 https://web.archive.org/web/20071014012620/http://www.thel-audioworld.de/module/saw/saw.htm  
