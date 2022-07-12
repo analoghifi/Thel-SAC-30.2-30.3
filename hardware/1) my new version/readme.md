@@ -1,3 +1,4 @@
+### Summary  
 In the <a href="/hardware">"hardware"</a> folder of this repository you can see the different versions of this module as they were built by THEL over the years and decades.  
 This does NOT necessarily mean that the latest, newest version ("version 07.2017 until now") is also the "best" version.  
 As you can see, in this case the sub-bass-boost feature and the extended supply voltage section is missing in the latest SAC 30.x  
@@ -5,6 +6,13 @@ and the very good PP 1% film/foil precision capacitors were switched to "normal"
 However, the latter in particular contradicts the goal of the 0° phase shift, because this requires that the determining filter capacitors and resistors have a tolerance of 1% or better (!).  
 (In addition, the PP film/foil also sound better than the MKP types ➔ lower (and less frequency-dependent) dissipation factor "tan delta" etc...)  
 On the other hand the latest, newest version ("version 07.2017 until now") introduces a much better input section (with 2 Op-Amps) in comparision to the previous model ("version 2011-2017")  
+
+### my plans:  
+* in the first step I will design a new SAC30, which combines the advantages of the two versions mentioned below,  
+it will still be in THT technology but 2 layer PCB, so that an average hobbyist can easily build it himself       
+* the next step will be to create an all SMD version of this (eventually including 1% C0G ceramic filter caps), with some new features like symmetrical outputs, input/output ESD protection, ...)  
+  
+<hr>  
   
 ### So here is a comparison of this two versions and their specific pros and cons:  
 #### Latest "version 07.2017 until now":  
@@ -32,7 +40,4 @@ On the other hand the latest, newest version ("version 07.2017 until now") intro
 :x: using a simplified audio input section with 1 OP-Amp only (worse symmetry / lower CMRR)  
 :x: using higher resistors in the filter section (more noise in theory)    
 :x: larger dimensions (95 x 142mm)  
-### my plans:  
-* in the first step I will design a new SAC30, which combines the advantages of the two versions mentioned above,  
-it will still be in THT technology but 2 layer PCB, so that an average hobbyist can easily build it himself       
-* the next step will be to create an all SMD version of this (eventually including 1% C0G ceramic filter caps), with some new features like symmetrical outputs, input/output ESD protection, ...)
+
