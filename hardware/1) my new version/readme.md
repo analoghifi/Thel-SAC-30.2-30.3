@@ -7,7 +7,7 @@ However, the latter in particular contradicts the goal of the 0° phase shift, b
 (In addition, the PP film/foil also sound better than the MKP types ➔ lower (and less frequency-dependent) dissipation factor "tan delta" etc...)  
 On the other hand the latest, newest version ("version 07.2017 until now") introduces a much better input section (with 2 Op-Amps) in comparision to the previous model ("version 2011-2017")  
 
-### my plans:  
+### Plans for \"my new version\":  
 * in the first step I will design a new SAC30, which combines the advantages of the two versions mentioned below,  
 it will still be in THT technology but 2 layer PCB, so that an average hobbyist can easily build it himself       
 * the next step will be to create an all SMD version of this (eventually including 1% C0G ceramic filter caps), with some new features like symmetrical outputs, input/output ESD protection, ...)  
@@ -15,7 +15,7 @@ it will still be in THT technology but 2 layer PCB, so that an average hobbyist 
 <hr>  
   
 ### So here is a comparison of this two versions and their specific pros and cons:  
-#### Latest "version 07.2017 until now":  
+#### Latest "<a href="/hardware/2)%20version%2007.2017%20until%20now">version 07.2017 until now</a>":  
 :x: no "bass-boost" feature  
 :x: using only "normal" capacitors in the filter section WIMA MKP 2.5% - 10% (or even worse: WIMA MKS)  
 :x: no "Multi-Footprint" for the 8 filter capacitors (to optionally use different sizes and shapes of filter caps)  
@@ -28,7 +28,7 @@ it will still be in THT technology but 2 layer PCB, so that an average hobbyist 
 :heavy_check_mark: better audio input section with 2 OP-Amps (better symmetry / higher CMRR)   
 :heavy_check_mark: using lower resistors in the filter section (less noise in theory)  
 :heavy_check_mark: smaller dimensions (85 x 121mm)   
-#### Previous "version 2011-2017":  
+#### Previous "<a href="/hardware/3)%20version%202011-2017">version 2011-2017</a>":  
 :heavy_check_mark: "bass-boost" feature  
 :heavy_check_mark: using the high grade tower style 1% precision KP film/foil caps in the filter section  
 :heavy_check_mark: "Multi-Footprint" for the 8 Filter capacitors to optionally use different sizes and shapes of filter caps  
