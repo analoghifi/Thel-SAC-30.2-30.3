@@ -1,4 +1,4 @@
-### Summary  
+### Summary:  
 In the <a href="/hardware">"hardware"</a> folder of this repository you can see the different versions of this module as they were built by THEL over the years and decades.  
 This does NOT necessarily mean that the latest, newest version ("version 07.2017 until now") is also the "best" version.  
 As you can see, in this case the sub-bass-boost feature and the extended supply voltage section is missing in the latest SAC 30.x  
