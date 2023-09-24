@@ -8,6 +8,13 @@ this is not the original Thel PCB but it's very like\* the original with the fol
   
 ----  
   
+### remarks:  
+#### U1,U2,U3,U4:  
+instead of [MC33079](https://github.com/analoghifi/Thel-SAC-30.2-30.3/blob/main/docs/components%20datasheets/MC33079.pdf) you can use [OPA1604](https://github.com/analoghifi/Thel-SAC-30.2-30.3/blob/main/docs/components%20datasheets/OPA1604.pdf),  
+with slightly better technical data regarding noise an THD.
+  
+----  
+  
 these are KiCad 6.x projects  
 see how to get the proper 3D-Models from here: https://github.com/analoghifi/KiCad-3D-Models
 
