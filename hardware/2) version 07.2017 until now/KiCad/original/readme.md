@@ -10,8 +10,15 @@ this is not the original Thel PCB but it's very like\* the original with the fol
   
 ### remarks:  
 #### U1,U2,U3,U4:  
-instead of [MC33079](https://github.com/analoghifi/Thel-SAC-30.2-30.3/blob/main/docs/components%20datasheets/MC33079.pdf) you can use [OPA1604](https://github.com/analoghifi/Thel-SAC-30.2-30.3/blob/main/docs/components%20datasheets/OPA1604.pdf),  
-with slightly better technical data regarding noise an THD.
+instead of [MC33079](https://github.com/analoghifi/Thel-SAC-30.2-30.3/blob/main/docs/components%20datasheets/MC33079_Motorola.pdf) you can use
+2 pieces\*\* of the dual op amp [LME49720](https://github.com/analoghifi/Thel-SAC-30.2-30.3/blob/main/docs/components%20datasheets/LME49720.pdf) or [LM4562](https://github.com/analoghifi/Thel-SAC-30.2-30.3/blob/main/docs/components%20datasheets/LM4562.pdf) (both\* Texas Instruments),  
+with slightly better technical data regarding noise an THD.  
+  
+\*(these two are 100% identical (even regarding their inner guts))  
+  
+\*\*(two pieces of dual op amps replace one of the quad op amp MC33079 - you have to use an adapter-PCB for it  
+-> search for "dual-opamp to quad-op-amp adapter" on google -> there are different versions available.  
+The adapter (target) footprint has to be 14-pin DIP with pins on a 0.1 inch pitch in rows spaced at 0.3 inch)
   
 ----  
   
