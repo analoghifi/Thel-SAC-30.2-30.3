@@ -88,7 +88,7 @@ https://docs.google.com/spreadsheets/d/1a5ryznVy3UrqgniDteTX_oCJn4powWA7M3F-0194
 ### Kicad projects in this repo:  
 * [version 2011-2017](https://github.com/analoghifi/Thel-SAC-30.2-30.3/tree/main/hardware/3\)%20version%202011-2017/KiCad/original) | state: initial release v1.01 | like the original, 1-layer, THT
 * [version 07.2017 until now](https://github.com/analoghifi/Thel-SAC-30.2-30.3/tree/main/hardware/2\)%20version%2007.2017%20until%20now/KiCad/original) | state: initial release v1.01 | like the original, 1-layer, THT
-* [my new version THT](https://github.com/analoghifi/Thel-SAC-30.2-30.3/tree/main/hardware/1\)%20my%20new%20version/KiCad/1.1\)%20my%20THT%20version) | state: comin soon... | 2-layer, THT
-* [my new version SMD](https://github.com/analoghifi/Thel-SAC-30.2-30.3/tree/main/hardware/1\)%20my%20new%20version/KiCad/1.2\)%20my%20SMT%20version) | state: comin soon... | 2-layer, SMD
+* [my new version THT](https://github.com/analoghifi/Thel-SAC-30.2-30.3/tree/main/hardware/1\)%20my%20new%20version/KiCad/1.1\)%20my%20THT%20version) | state: coming soon... | 2-layer, THT
+* [my new version SMD](https://github.com/analoghifi/Thel-SAC-30.2-30.3/tree/main/hardware/1\)%20my%20new%20version/KiCad/1.2\)%20my%20SMT%20version) | state: coming soon... | 2-layer, SMD
 
 ----
