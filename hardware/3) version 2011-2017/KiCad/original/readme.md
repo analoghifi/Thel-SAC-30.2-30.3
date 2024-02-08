@@ -24,6 +24,7 @@ The adapter (target) footprint has to be 14-pin DIP with pins on a 0.1 inch pitc
 ----  
   
 these are KiCad 6.x projects  
-see how to get the proper 3D-Models from here: https://github.com/analoghifi/KiCad-3D-Models
-
-
+see how to get the proper 3D-Models from here: https://github.com/analoghifi/KiCad-3D-Models  
+  
+use kicanvas.org to see this KiCad-Project in your browser:  
+https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fanaloghifi%2FThel-SAC-30.2-30.3%2Ftree%2Fmain%2Fhardware%2F3%29%2520version%25202011-2017%2FKiCad%2Foriginal
